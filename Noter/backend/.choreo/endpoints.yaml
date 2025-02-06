@@ -5,4 +5,4 @@ endpoints:
     port: 8000
     type: REST
     networkVisibility: Public
-    contex: /
+    context: /
